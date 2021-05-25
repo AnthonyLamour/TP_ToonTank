@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ToonTanks",
+			"Path": "E:\\Unreal_Projects\\TP_ToonTank\\TP_ToonTank\\ToonTanksUE\\Source\\ToonTanks.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ToonTanksEditor",
+			"Path": "E:\\Unreal_Projects\\TP_ToonTank\\TP_ToonTank\\ToonTanksUE\\Source\\ToonTanksEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
