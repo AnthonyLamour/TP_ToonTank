@@ -29,6 +29,13 @@ void APawnTurret::Tick(float DeltaTime)
 	RotateTurret(PlayerPawn->GetActorLocation());
 }
 
+void APawnTurret::HandleDestruction() 
+{
+	Super::HandleDestruction();
+
+	Destroy();
+}
+
 void APawnTurret::CheckFireCondition()
 {
 	if (!PlayerPawn) {
