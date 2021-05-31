@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ToonTanks.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{21464A73-40DD-43AC-B4C3-0032295D3687}</UniqueIdentifier>
+      <UniqueIdentifier>{F9CE165C-4884-47BA-A825-D31BD4F14366}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ToonTanks.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{32317BBA-13FA-42F2-881C-3C1922B8AF66}</UniqueIdentifier>
+      <UniqueIdentifier>{85829324-3C0D-4B1E-8825-F3072D790179}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ToonTanks">
-      <UniqueIdentifier>{2285B84E-C1C2-4425-9CDC-C766DA82ACD5}</UniqueIdentifier>
+      <UniqueIdentifier>{E08C87C5-DD89-4021-92E8-8A80D0DDFD26}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ToonTanks\ToonTanks.Build.cs">
       <Filter>Source\ToonTanks</Filter>
@@ -39,7 +39,7 @@
       <Filter>Source\ToonTanks</Filter>
     </ClInclude>
     <Filter Include="Source\ToonTanks\Actors">
-      <UniqueIdentifier>{3FE9AC31-A3F5-4204-9F79-0E67AF633BE9}</UniqueIdentifier>
+      <UniqueIdentifier>{9829B6E1-67FC-4D2E-A769-26DD7220B20A}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ToonTanks\Actors\ProjectileBase.cpp">
       <Filter>Source\ToonTanks\Actors</Filter>
@@ -47,8 +47,17 @@
     <ClInclude Include="..\..\Source\ToonTanks\Actors\ProjectileBase.h">
       <Filter>Source\ToonTanks\Actors</Filter>
     </ClInclude>
+    <Filter Include="Source\ToonTanks\GameModes">
+      <UniqueIdentifier>{63D8599F-34F6-47BB-B37C-024E77DD174B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ToonTanks\GameModes\TankGameModeBase.cpp">
+      <Filter>Source\ToonTanks\GameModes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\GameModes\TankGameModeBase.h">
+      <Filter>Source\ToonTanks\GameModes</Filter>
+    </ClInclude>
     <Filter Include="Source\ToonTanks\Paws">
-      <UniqueIdentifier>{989DE0DC-1C9F-45F3-8257-AAEA364B7716}</UniqueIdentifier>
+      <UniqueIdentifier>{FDFA688E-62CE-496B-AD1F-35DC3832AA9A}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ToonTanks\Paws\PawnBase.cpp">
       <Filter>Source\ToonTanks\Paws</Filter>
