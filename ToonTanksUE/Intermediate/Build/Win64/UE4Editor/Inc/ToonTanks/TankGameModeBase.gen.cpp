@@ -112,7 +112,6 @@ void EmptyLinkFunctionForGeneratedCodeTankGameModeBase() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ATankGameModeBase_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "GameModes/TankGameModeBase.h" },
 		{ "ModuleRelativePath", "GameModes/TankGameModeBase.h" },
@@ -146,7 +145,7 @@ void EmptyLinkFunctionForGeneratedCodeTankGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ATankGameModeBase, 2890961008);
+	IMPLEMENT_CLASS(ATankGameModeBase, 2487911081);
 	template<> TOONTANKS_API UClass* StaticClass<ATankGameModeBase>()
 	{
 		return ATankGameModeBase::StaticClass();

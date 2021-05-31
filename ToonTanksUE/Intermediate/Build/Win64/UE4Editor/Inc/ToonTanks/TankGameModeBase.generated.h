@@ -13,18 +13,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TOONTANKS_TankGameModeBase_generated_h
 
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_SPARSE_DATA
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_RPC_WRAPPERS
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_EVENT_PARMS \
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_SPARSE_DATA
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_RPC_WRAPPERS
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_EVENT_PARMS \
 	struct TankGameModeBase_eventGameOver_Parms \
 	{ \
 		bool PlayerWon; \
 	};
 
 
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_CALLBACK_WRAPPERS
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_CALLBACK_WRAPPERS
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesATankGameModeBase(); \
 	friend struct Z_Construct_UClass_ATankGameModeBase_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(ATankGameModeBase)
 
 
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_INCLASS \
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_INCLASS \
 private: \
 	static void StaticRegisterNativesATankGameModeBase(); \
 	friend struct Z_Construct_UClass_ATankGameModeBase_Statics; \
@@ -42,7 +42,7 @@ public: \
 	DECLARE_SERIALIZER(ATankGameModeBase)
 
 
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ATankGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ATankGameModeBase) \
@@ -55,7 +55,7 @@ private: \
 public:
 
 
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ATankGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -68,33 +68,33 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ATankGameModeBase); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ATankGameModeBase)
 
 
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_12_PROLOG \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_EVENT_PARMS
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_PRIVATE_PROPERTY_OFFSET
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_11_PROLOG \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_EVENT_PARMS
 
 
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_GENERATED_BODY_LEGACY \
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_SPARSE_DATA \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_RPC_WRAPPERS \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_CALLBACK_WRAPPERS \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_INCLASS \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_PRIVATE_PROPERTY_OFFSET \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_SPARSE_DATA \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_RPC_WRAPPERS \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_CALLBACK_WRAPPERS \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_INCLASS \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_GENERATED_BODY \
+#define ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_SPARSE_DATA \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_CALLBACK_WRAPPERS \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
-	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_PRIVATE_PROPERTY_OFFSET \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_SPARSE_DATA \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_CALLBACK_WRAPPERS \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_INCLASS_NO_PURE_DECLS \
+	ToonTanksUE_Source_ToonTanks_GameModes_TankGameModeBase_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
