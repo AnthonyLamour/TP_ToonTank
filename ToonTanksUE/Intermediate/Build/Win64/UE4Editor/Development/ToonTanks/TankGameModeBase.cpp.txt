@@ -22,3 +22,5 @@ E:\Unreal_Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Di
 e:\unreal_engine\ue_4.25\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
 E:\Unreal_Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 E:\Unreal_Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+E:\Unreal_Projects\TP_ToonTank\TP_ToonTank\ToonTanksUE\Source\ToonTanks/PlayerControllers/PlayerControllerBase.h
+E:\Unreal_Projects\TP_ToonTank\TP_ToonTank\ToonTanksUE\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\PlayerControllerBase.generated.h

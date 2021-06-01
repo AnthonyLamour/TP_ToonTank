@@ -53,7 +53,6 @@ void APawnTank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 void APawnTank::HandleDestruction()
 {
 	Super::HandleDestruction();
-	Destroy();
 }
 
 void APawnTank::CalculateMoveInput(float Value)

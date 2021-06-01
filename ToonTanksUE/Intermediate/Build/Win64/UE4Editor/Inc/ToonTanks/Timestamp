@@ -1,6 +1,7 @@
 E:\Unreal_Projects\TP_ToonTank\TP_ToonTank\ToonTanksUE\Source\ToonTanks\Actors\ProjectileBase.h
+E:\Unreal_Projects\TP_ToonTank\TP_ToonTank\ToonTanksUE\Source\ToonTanks\Components\HealthComponent.h
+E:\Unreal_Projects\TP_ToonTank\TP_ToonTank\ToonTanksUE\Source\ToonTanks\GameModes\TankGameModeBase.h
 E:\Unreal_Projects\TP_ToonTank\TP_ToonTank\ToonTanksUE\Source\ToonTanks\Paws\PawnBase.h
 E:\Unreal_Projects\TP_ToonTank\TP_ToonTank\ToonTanksUE\Source\ToonTanks\Paws\PawnTurret.h
 E:\Unreal_Projects\TP_ToonTank\TP_ToonTank\ToonTanksUE\Source\ToonTanks\Paws\PawnTank.h
-E:\Unreal_Projects\TP_ToonTank\TP_ToonTank\ToonTanksUE\Source\ToonTanks\GameModes\TankGameModeBase.h
-E:\Unreal_Projects\TP_ToonTank\TP_ToonTank\ToonTanksUE\Source\ToonTanks\Components\HealthComponent.h
+E:\Unreal_Projects\TP_ToonTank\TP_ToonTank\ToonTanksUE\Source\ToonTanks\PlayerControllers\PlayerControllerBase.h
